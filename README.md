@@ -48,11 +48,11 @@ I believe in making decisions not just by looking at historical data, but by tho
 Coming soon! I’ll be uploading some of my favorite projects here.
 
 ---
-<
+<!--
 ## 📊 GitHub Stats
 
 ![Binafsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BinafshaRoy&show_icons=true&theme=default)
 
 ---
 
->
+-->
